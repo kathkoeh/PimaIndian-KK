@@ -3,7 +3,7 @@
 This project explores diabetes risk using logistic regression on the Pima Indians dataset
 
 ## Files
-- 'pima_diabetes_analysis.ipynb': Full step-by-step code
+- 'PIMA_INDIANS_DIABETES.ipynb': Full step-by-step code
 - 'Pima_Indians-PythonAnalysis.pdf': Final formatted report
 - 'diabetes.csv': Dataset used
 
